@@ -2,7 +2,7 @@ Code for the study on associations between connectome-wise features on the thala
 
 Execute corr_run.m to perform network preprocessing and statistic analyses.
   
-  brain_reading_corr for correlations between reading measures and two network measures (local efficiency and clustering coefficient)
+  brain_reading_corr for correlations between reading measures and two network measures (local efficiency and clustering coefficient), which is based on Brain Connectivity Toolbox
   
   main_BRW_LAU2_glob_lambda is the code from Avena-Koenigsberger et al. (2019) (https://doi.org/10.1371/journal.pcbi.1006833), which computes routing strategy matrices.
   
